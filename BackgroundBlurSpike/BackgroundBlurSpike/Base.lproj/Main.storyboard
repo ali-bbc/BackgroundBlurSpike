@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="16097.2" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="16097.2" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="vDA-qN-CMV">
     <device id="retina6_1" orientation="portrait" appearance="light"/>
     <dependencies>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
@@ -16,27 +16,26 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="image1" translatesAutoresizingMaskIntoConstraints="NO" id="l4I-nq-0ZC">
-                                <rect key="frame" x="12" y="165" width="170" height="124"/>
+                                <rect key="frame" x="7" y="165" width="200" height="150"/>
                                 <constraints>
-                                    <constraint firstAttribute="height" constant="124" id="aLS-bI-Dhh"/>
-                                    <constraint firstAttribute="width" constant="170" id="hnr-3l-tgr"/>
+                                    <constraint firstAttribute="height" constant="150" id="aLS-bI-Dhh"/>
+                                    <constraint firstAttribute="width" constant="200" id="hnr-3l-tgr"/>
                                 </constraints>
                             </imageView>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="image2" translatesAutoresizingMaskIntoConstraints="NO" id="iZr-xB-EUk">
-                                <rect key="frame" x="182" y="165" width="170" height="124"/>
+                                <rect key="frame" x="207" y="165" width="200" height="150"/>
                                 <constraints>
-                                    <constraint firstAttribute="height" constant="124" id="4Dt-Xw-aBV"/>
-                                    <constraint firstAttribute="width" constant="170" id="kXW-aY-jPp"/>
+                                    <constraint firstAttribute="height" constant="150" id="4Dt-Xw-aBV"/>
+                                    <constraint firstAttribute="width" constant="200" id="kXW-aY-jPp"/>
                                 </constraints>
                             </imageView>
                         </subviews>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <constraints>
+                            <constraint firstItem="l4I-nq-0ZC" firstAttribute="centerX" secondItem="9BQ-e9-rwt" secondAttribute="centerX" constant="-100" id="AqD-bX-OTW"/>
                             <constraint firstItem="iZr-xB-EUk" firstAttribute="centerY" secondItem="l4I-nq-0ZC" secondAttribute="centerY" id="Evl-3x-nWd"/>
-                            <constraint firstItem="2V2-pg-wD8" firstAttribute="bottom" secondItem="l4I-nq-0ZC" secondAttribute="bottom" constant="573" id="ILC-Nc-aBW"/>
                             <constraint firstItem="l4I-nq-0ZC" firstAttribute="top" secondItem="2V2-pg-wD8" secondAttribute="top" constant="121" id="NJw-G6-xMp"/>
                             <constraint firstItem="iZr-xB-EUk" firstAttribute="top" secondItem="l4I-nq-0ZC" secondAttribute="top" id="R6O-UT-McZ"/>
-                            <constraint firstItem="l4I-nq-0ZC" firstAttribute="leading" secondItem="2V2-pg-wD8" secondAttribute="leading" constant="12" id="Wok-HF-5Mf"/>
                             <constraint firstItem="iZr-xB-EUk" firstAttribute="leading" secondItem="l4I-nq-0ZC" secondAttribute="trailing" id="i8T-ut-wtS"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="2V2-pg-wD8"/>
@@ -52,7 +51,7 @@
         </scene>
     </scenes>
     <resources>
-        <image name="image1" width="128" height="128"/>
-        <image name="image2" width="128" height="128"/>
+        <image name="image1" width="339" height="149"/>
+        <image name="image2" width="1200" height="675"/>
     </resources>
 </document>
