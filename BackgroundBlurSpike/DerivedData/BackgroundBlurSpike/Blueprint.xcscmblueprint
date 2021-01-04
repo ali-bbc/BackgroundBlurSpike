@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "42C77797F525FDA583C923C59820C3FA7B76857F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "42C77797F525FDA583C923C59820C3FA7B76857F" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A77B9929-0142-4294-B671-9C167A9C951A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "42C77797F525FDA583C923C59820C3FA7B76857F" : "BackgroundBlurSpike\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BackgroundBlurSpike",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "BackgroundBlurSpike\/BackgroundBlurSpike.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git@github.com:ali-bbc\/BackgroundBlurSpike.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "42C77797F525FDA583C923C59820C3FA7B76857F"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "b54c8a989062d46d1d73456900a80051"
+build_time: [1609777530, 713715000]
+inputs:
+  "/Users/hassaa17/BackgroundBlurSpike/BackgroundBlurSpike/BackgroundBlurSpike/ViewController.swift": [1609777526, 282941941]
+  "/Users/hassaa17/BackgroundBlurSpike/BackgroundBlurSpike/BackgroundBlurSpike/AppDelegate.swift": [1609777526, 276278280]
+  "/Users/hassaa17/BackgroundBlurSpike/BackgroundBlurSpike/BackgroundBlurSpike/SceneDelegate.swift": [1609777526, 280317846]
