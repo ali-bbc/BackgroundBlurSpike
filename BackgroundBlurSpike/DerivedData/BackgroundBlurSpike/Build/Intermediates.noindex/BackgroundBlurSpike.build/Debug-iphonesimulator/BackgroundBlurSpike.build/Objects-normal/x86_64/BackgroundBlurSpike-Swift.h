@@ -232,11 +232,16 @@ SWIFT_CLASS("_TtC19BackgroundBlurSpike13SceneDelegate")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
+
+
+@class UIImageView;
 @class NSBundle;
 @class NSCoder;
 
 SWIFT_CLASS("_TtC19BackgroundBlurSpike14ViewController")
 @interface ViewController : UIViewController
+@property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified leftImageView;
+@property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified rightImageView;
 - (void)viewDidLoad;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;

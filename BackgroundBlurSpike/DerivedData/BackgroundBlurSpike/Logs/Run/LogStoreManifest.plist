@@ -5,6 +5,41 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>8480C9D4-DB64-4205-9C5C-A351F204E144</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8480C9D4-DB64-4205-9C5C-A351F204E144.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631470398.46112096</real>
+			<key>timeStoppedRecording</key>
+			<real>631470399.71707201</real>
+			<key>title</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>8480C9D4-DB64-4205-9C5C-A351F204E144</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
