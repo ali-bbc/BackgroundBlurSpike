@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>50A947E7-14AA-46F9-9929-F64612F70930</key>
+		<key>0205D969-91D5-45DB-86E0-793518FBBF2C</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>50A947E7-14AA-46F9-9929-F64612F70930.xcactivitylog</string>
+			<string>0205D969-91D5-45DB-86E0-793518FBBF2C.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,15 +32,15 @@
 			<key>signature</key>
 			<string>Build BackgroundBlurSpike</string>
 			<key>timeStartedRecording</key>
-			<real>631470398.01418197</real>
+			<real>631539419.13834596</real>
 			<key>timeStoppedRecording</key>
-			<real>631470398.45799196</real>
+			<real>631539419.95797706</real>
 			<key>title</key>
 			<string>Build BackgroundBlurSpike</string>
 			<key>uniqueIdentifier</key>
-			<string>50A947E7-14AA-46F9-9929-F64612F70930</string>
+			<string>0205D969-91D5-45DB-86E0-793518FBBF2C</string>
 		</dict>
-		<key>60058AD3-9293-4AF4-A6B3-EF98F682A6C4</key>
+		<key>050342B9-6AA1-4943-AD1D-0609A1BD300E</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -49,41 +49,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>60058AD3-9293-4AF4-A6B3-EF98F682A6C4.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>BackgroundBlurSpike project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>BackgroundBlurSpike</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build BackgroundBlurSpike</string>
-			<key>timeStartedRecording</key>
-			<real>631470431.58645201</real>
-			<key>timeStoppedRecording</key>
-			<real>631470433.97029495</real>
-			<key>title</key>
-			<string>Build BackgroundBlurSpike</string>
-			<key>uniqueIdentifier</key>
-			<string>60058AD3-9293-4AF4-A6B3-EF98F682A6C4</string>
-		</dict>
-		<key>FFC7D16D-1BDF-41D6-B0B0-3E3EB6A85270</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>FFC7D16D-1BDF-41D6-B0B0-3E3EB6A85270.xcactivitylog</string>
+			<string>050342B9-6AA1-4943-AD1D-0609A1BD300E.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -100,13 +66,1033 @@
 			<key>signature</key>
 			<string>Build BackgroundBlurSpike</string>
 			<key>timeStartedRecording</key>
-			<real>631470393.00844598</real>
+			<real>631539468.08287001</real>
 			<key>timeStoppedRecording</key>
-			<real>631470397.12040401</real>
+			<real>631539468.78721404</real>
 			<key>title</key>
 			<string>Build BackgroundBlurSpike</string>
 			<key>uniqueIdentifier</key>
-			<string>FFC7D16D-1BDF-41D6-B0B0-3E3EB6A85270</string>
+			<string>050342B9-6AA1-4943-AD1D-0609A1BD300E</string>
+		</dict>
+		<key>129118A3-D92A-4AC5-95EA-F7F8E542BD26</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>129118A3-D92A-4AC5-95EA-F7F8E542BD26.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631537603.85814095</real>
+			<key>timeStoppedRecording</key>
+			<real>631537606.64164698</real>
+			<key>title</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>129118A3-D92A-4AC5-95EA-F7F8E542BD26</string>
+		</dict>
+		<key>2422B6FA-4046-43B8-9E22-F887F79D632E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2422B6FA-4046-43B8-9E22-F887F79D632E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631539342.21668994</real>
+			<key>timeStoppedRecording</key>
+			<real>631539342.97818196</real>
+			<key>title</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>2422B6FA-4046-43B8-9E22-F887F79D632E</string>
+		</dict>
+		<key>3074348C-FCA4-41BB-9D90-37EC078A5E08</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3074348C-FCA4-41BB-9D90-37EC078A5E08.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631538688.50865901</real>
+			<key>timeStoppedRecording</key>
+			<real>631538689.09092999</real>
+			<key>title</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>3074348C-FCA4-41BB-9D90-37EC078A5E08</string>
+		</dict>
+		<key>3635AE3A-7257-4BF8-9E83-E9398DBBDF72</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3635AE3A-7257-4BF8-9E83-E9398DBBDF72.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631537644.733904</real>
+			<key>timeStoppedRecording</key>
+			<real>631537656.59403598</real>
+			<key>title</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>3635AE3A-7257-4BF8-9E83-E9398DBBDF72</string>
+		</dict>
+		<key>3674C26C-C249-477B-83B9-9DC8556CE45D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3674C26C-C249-477B-83B9-9DC8556CE45D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631538798.45235598</real>
+			<key>timeStoppedRecording</key>
+			<real>631538804.93461502</real>
+			<key>title</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>3674C26C-C249-477B-83B9-9DC8556CE45D</string>
+		</dict>
+		<key>451B5229-DAD6-45C6-88EB-A8B0B8F46E69</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>451B5229-DAD6-45C6-88EB-A8B0B8F46E69.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631538472.53256798</real>
+			<key>timeStoppedRecording</key>
+			<real>631538473.77889895</real>
+			<key>title</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>451B5229-DAD6-45C6-88EB-A8B0B8F46E69</string>
+		</dict>
+		<key>48BFA1D6-8469-43BE-B174-613962B8B461</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>48BFA1D6-8469-43BE-B174-613962B8B461.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631539066.356341</real>
+			<key>timeStoppedRecording</key>
+			<real>631539067.54738498</real>
+			<key>title</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>48BFA1D6-8469-43BE-B174-613962B8B461</string>
+		</dict>
+		<key>742169CB-D9A4-4730-B0ED-BD8541BCF71D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>742169CB-D9A4-4730-B0ED-BD8541BCF71D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631539380.36544204</real>
+			<key>timeStoppedRecording</key>
+			<real>631539381.08838105</real>
+			<key>title</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>742169CB-D9A4-4730-B0ED-BD8541BCF71D</string>
+		</dict>
+		<key>7D32C455-6CF7-46B9-BF1E-C6401E2031ED</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7D32C455-6CF7-46B9-BF1E-C6401E2031ED.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631539405.23945498</real>
+			<key>timeStoppedRecording</key>
+			<real>631539405.90095103</real>
+			<key>title</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>7D32C455-6CF7-46B9-BF1E-C6401E2031ED</string>
+		</dict>
+		<key>870E8BA8-6051-4D91-81DC-0CC9FC3DC799</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>870E8BA8-6051-4D91-81DC-0CC9FC3DC799.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631539322.91519105</real>
+			<key>timeStoppedRecording</key>
+			<real>631539325.41747403</real>
+			<key>title</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>870E8BA8-6051-4D91-81DC-0CC9FC3DC799</string>
+		</dict>
+		<key>8829A82D-BF2C-49CF-BD83-1CECD93F5B82</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8829A82D-BF2C-49CF-BD83-1CECD93F5B82.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631538694.28469706</real>
+			<key>timeStoppedRecording</key>
+			<real>631538696.28289902</real>
+			<key>title</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>8829A82D-BF2C-49CF-BD83-1CECD93F5B82</string>
+		</dict>
+		<key>92E7F99D-10DA-4B51-AC31-1C41AE78079E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>92E7F99D-10DA-4B51-AC31-1C41AE78079E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631539556.15513897</real>
+			<key>timeStoppedRecording</key>
+			<real>631539557.02918196</real>
+			<key>title</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>92E7F99D-10DA-4B51-AC31-1C41AE78079E</string>
+		</dict>
+		<key>9C10573D-76E0-4D7C-A6B0-C4C199921B42</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9C10573D-76E0-4D7C-A6B0-C4C199921B42.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631539232.03071904</real>
+			<key>timeStoppedRecording</key>
+			<real>631539237.30032897</real>
+			<key>title</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>9C10573D-76E0-4D7C-A6B0-C4C199921B42</string>
+		</dict>
+		<key>A1ED7F25-510C-4360-A5CE-0C9BD35DA7B0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A1ED7F25-510C-4360-A5CE-0C9BD35DA7B0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631530268.83012497</real>
+			<key>timeStoppedRecording</key>
+			<real>631530272.21215498</real>
+			<key>title</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>A1ED7F25-510C-4360-A5CE-0C9BD35DA7B0</string>
+		</dict>
+		<key>A9EE6733-346E-49C0-A30C-868908718404</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A9EE6733-346E-49C0-A30C-868908718404.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631539526.38936102</real>
+			<key>timeStoppedRecording</key>
+			<real>631539526.81878996</real>
+			<key>title</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>A9EE6733-346E-49C0-A30C-868908718404</string>
+		</dict>
+		<key>AA4ABDD9-CE53-45EF-A51E-967F6F3C3DD9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AA4ABDD9-CE53-45EF-A51E-967F6F3C3DD9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631538451.33494997</real>
+			<key>timeStoppedRecording</key>
+			<real>631538454.38085794</real>
+			<key>title</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>AA4ABDD9-CE53-45EF-A51E-967F6F3C3DD9</string>
+		</dict>
+		<key>AB37C8AD-3B80-4222-826A-216581B43596</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AB37C8AD-3B80-4222-826A-216581B43596.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631538973.37081003</real>
+			<key>timeStoppedRecording</key>
+			<real>631538974.54246402</real>
+			<key>title</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>AB37C8AD-3B80-4222-826A-216581B43596</string>
+		</dict>
+		<key>B1565F3F-7238-43ED-8892-B93C8B7DA638</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B1565F3F-7238-43ED-8892-B93C8B7DA638.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631539479.45949805</real>
+			<key>timeStoppedRecording</key>
+			<real>631539480.203354</real>
+			<key>title</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>B1565F3F-7238-43ED-8892-B93C8B7DA638</string>
+		</dict>
+		<key>B8F6FCF4-39E7-403E-8D2F-B699801517E8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B8F6FCF4-39E7-403E-8D2F-B699801517E8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631539542.56796706</real>
+			<key>timeStoppedRecording</key>
+			<real>631539543.30511701</real>
+			<key>title</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>B8F6FCF4-39E7-403E-8D2F-B699801517E8</string>
+		</dict>
+		<key>BD68B67A-2F30-4F02-9B4F-2604C4CE6EB8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BD68B67A-2F30-4F02-9B4F-2604C4CE6EB8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631539238.81888998</real>
+			<key>timeStoppedRecording</key>
+			<real>631539240.94012403</real>
+			<key>title</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>BD68B67A-2F30-4F02-9B4F-2604C4CE6EB8</string>
+		</dict>
+		<key>C15E2BFB-D649-4D96-AA8F-7E9F4A9CB224</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C15E2BFB-D649-4D96-AA8F-7E9F4A9CB224.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631538328.14750099</real>
+			<key>timeStoppedRecording</key>
+			<real>631538329.21327996</real>
+			<key>title</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>C15E2BFB-D649-4D96-AA8F-7E9F4A9CB224</string>
+		</dict>
+		<key>CA0C8A6F-544B-4903-8889-F6858D950EF1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CA0C8A6F-544B-4903-8889-F6858D950EF1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631539591.72351801</real>
+			<key>timeStoppedRecording</key>
+			<real>631539592.43069804</real>
+			<key>title</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>CA0C8A6F-544B-4903-8889-F6858D950EF1</string>
+		</dict>
+		<key>D44D1491-900C-4952-910E-8FD78C96983B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D44D1491-900C-4952-910E-8FD78C96983B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631539507.34741902</real>
+			<key>timeStoppedRecording</key>
+			<real>631539508.14396501</real>
+			<key>title</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>D44D1491-900C-4952-910E-8FD78C96983B</string>
+		</dict>
+		<key>D5AB00F3-A4E8-4808-8F81-14F741D8ACD3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D5AB00F3-A4E8-4808-8F81-14F741D8ACD3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631539438.06251097</real>
+			<key>timeStoppedRecording</key>
+			<real>631539438.80891097</real>
+			<key>title</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>D5AB00F3-A4E8-4808-8F81-14F741D8ACD3</string>
+		</dict>
+		<key>E5B66AE3-C653-41BB-902C-53B5513D3E0F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E5B66AE3-C653-41BB-902C-53B5513D3E0F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631539496.24552202</real>
+			<key>timeStoppedRecording</key>
+			<real>631539496.94660199</real>
+			<key>title</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>E5B66AE3-C653-41BB-902C-53B5513D3E0F</string>
+		</dict>
+		<key>E96031BE-073C-4FC4-BDCE-57DEA8EF2E64</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E96031BE-073C-4FC4-BDCE-57DEA8EF2E64.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631539017.03515196</real>
+			<key>timeStoppedRecording</key>
+			<real>631539018.20676696</real>
+			<key>title</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>E96031BE-073C-4FC4-BDCE-57DEA8EF2E64</string>
+		</dict>
+		<key>EE5B9D13-B97C-48FB-824C-ECC2E97423DF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EE5B9D13-B97C-48FB-824C-ECC2E97423DF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631539113.05148995</real>
+			<key>timeStoppedRecording</key>
+			<real>631539114.89367604</real>
+			<key>title</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>EE5B9D13-B97C-48FB-824C-ECC2E97423DF</string>
+		</dict>
+		<key>F4FF3AF3-8CED-40BC-BA66-107C0F40EDE2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F4FF3AF3-8CED-40BC-BA66-107C0F40EDE2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631539516.39891303</real>
+			<key>timeStoppedRecording</key>
+			<real>631539516.88801503</real>
+			<key>title</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>F4FF3AF3-8CED-40BC-BA66-107C0F40EDE2</string>
+		</dict>
+		<key>FA85434C-7F23-42E2-8A20-283BF20AC00B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FA85434C-7F23-42E2-8A20-283BF20AC00B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631539452.20931399</real>
+			<key>timeStoppedRecording</key>
+			<real>631539452.97443795</real>
+			<key>title</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>FA85434C-7F23-42E2-8A20-283BF20AC00B</string>
+		</dict>
+		<key>FD26BF83-6225-4988-B12E-451E7D0B385C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FD26BF83-6225-4988-B12E-451E7D0B385C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631538295.76919103</real>
+			<key>timeStoppedRecording</key>
+			<real>631538307.87717795</real>
+			<key>title</key>
+			<string>Build BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>FD26BF83-6225-4988-B12E-451E7D0B385C</string>
 		</dict>
 	</dict>
 </dict>

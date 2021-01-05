@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>4E6E1DE0-3BED-4332-9996-56F8DA75970E</key>
+		<key>2CF90478-F308-4CE0-8760-B507696C4250</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
@@ -15,24 +15,24 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>4E6E1DE0-3BED-4332-9996-56F8DA75970E.xcactivitylog</string>
+			<string>2CF90478-F308-4CE0-8760-B507696C4250.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>W</string>
+				<string>S</string>
 			</dict>
 			<key>signature</key>
 			<string>BackgroundBlurSpike-civynjdcrdoskkfkpuafeavahcbn</string>
 			<key>timeStartedRecording</key>
-			<real>631470432.37064803</real>
+			<real>631539591.89675999</real>
 			<key>timeStoppedRecording</key>
-			<real>631470433.96581602</real>
+			<real>631539592.42579806</real>
 			<key>title</key>
 			<string>Build target BackgroundBlurSpike</string>
 			<key>uniqueIdentifier</key>
-			<string>4E6E1DE0-3BED-4332-9996-56F8DA75970E</string>
+			<string>2CF90478-F308-4CE0-8760-B507696C4250</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>

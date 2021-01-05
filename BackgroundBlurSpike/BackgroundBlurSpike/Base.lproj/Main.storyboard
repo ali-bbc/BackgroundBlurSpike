@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="16097.2" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="vDA-qN-CMV">
-    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <device id="retina6_1" orientation="landscape" appearance="light"/>
     <dependencies>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
@@ -10,48 +10,61 @@
         <!--View Controller-->
         <scene sceneID="ud4-ps-MU8">
             <objects>
-                <viewController id="vDA-qN-CMV" customClass="ViewController" customModule="blurBackgroundSpike" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="vDA-qN-CMV" customClass="ViewController" customModule="BackgroundBlurSpike" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="9BQ-e9-rwt">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="896" height="414"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="image1" translatesAutoresizingMaskIntoConstraints="NO" id="l4I-nq-0ZC">
-                                <rect key="frame" x="7" y="165" width="200" height="150"/>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="Db3-Mp-qdx">
+                                <rect key="frame" x="76.5" y="108.5" width="743" height="197"/>
                                 <constraints>
-                                    <constraint firstAttribute="height" constant="150" id="aLS-bI-Dhh"/>
-                                    <constraint firstAttribute="width" constant="200" id="hnr-3l-tgr"/>
+                                    <constraint firstAttribute="width" constant="743" id="0KU-hw-yUJ"/>
+                                    <constraint firstAttribute="height" constant="197" id="IXu-Ew-2ZQ"/>
                                 </constraints>
                             </imageView>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="image2" translatesAutoresizingMaskIntoConstraints="NO" id="iZr-xB-EUk">
-                                <rect key="frame" x="207" y="165" width="200" height="150"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="150" id="4Dt-Xw-aBV"/>
-                                    <constraint firstAttribute="width" constant="200" id="kXW-aY-jPp"/>
-                                </constraints>
-                            </imageView>
+                            <visualEffectView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Lhj-M3-Yw5">
+                                <rect key="frame" x="76.5" y="108.5" width="743" height="197"/>
+                                <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" alpha="0.0" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" id="nHp-Tg-CEZ">
+                                    <rect key="frame" x="0.0" y="0.0" width="743" height="197"/>
+                                    <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                    <subviews>
+                                        <visualEffectView opaque="NO" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="8uz-wL-Ugb">
+                                            <rect key="frame" x="0.0" y="0.0" width="503" height="69"/>
+                                            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" id="8xE-JA-Ury">
+                                                <rect key="frame" x="0.0" y="0.0" width="503" height="69"/>
+                                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                            </view>
+                                            <vibrancyEffect>
+                                                <blurEffect style="regular"/>
+                                            </vibrancyEffect>
+                                        </visualEffectView>
+                                    </subviews>
+                                </view>
+                                <color key="tintColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <vibrancyEffect>
+                                    <blurEffect style="systemThickMaterialDark"/>
+                                </vibrancyEffect>
+                            </visualEffectView>
                         </subviews>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <constraints>
-                            <constraint firstItem="l4I-nq-0ZC" firstAttribute="centerX" secondItem="9BQ-e9-rwt" secondAttribute="centerX" constant="-100" id="AqD-bX-OTW"/>
-                            <constraint firstItem="iZr-xB-EUk" firstAttribute="centerY" secondItem="l4I-nq-0ZC" secondAttribute="centerY" id="Evl-3x-nWd"/>
-                            <constraint firstItem="l4I-nq-0ZC" firstAttribute="top" secondItem="2V2-pg-wD8" secondAttribute="top" constant="121" id="NJw-G6-xMp"/>
-                            <constraint firstItem="iZr-xB-EUk" firstAttribute="top" secondItem="l4I-nq-0ZC" secondAttribute="top" id="R6O-UT-McZ"/>
-                            <constraint firstItem="iZr-xB-EUk" firstAttribute="leading" secondItem="l4I-nq-0ZC" secondAttribute="trailing" id="i8T-ut-wtS"/>
+                            <constraint firstItem="Db3-Mp-qdx" firstAttribute="centerY" secondItem="9BQ-e9-rwt" secondAttribute="centerY" id="L01-4Z-Mkl"/>
+                            <constraint firstItem="Lhj-M3-Yw5" firstAttribute="trailing" secondItem="Db3-Mp-qdx" secondAttribute="trailing" id="LyK-V4-T9Q"/>
+                            <constraint firstItem="Lhj-M3-Yw5" firstAttribute="bottom" secondItem="Db3-Mp-qdx" secondAttribute="bottom" id="Vik-jy-QFy"/>
+                            <constraint firstItem="Lhj-M3-Yw5" firstAttribute="top" secondItem="Db3-Mp-qdx" secondAttribute="top" id="XAb-n2-tVE"/>
+                            <constraint firstItem="Db3-Mp-qdx" firstAttribute="centerX" secondItem="9BQ-e9-rwt" secondAttribute="centerX" id="iiL-hI-SQy"/>
+                            <constraint firstItem="Lhj-M3-Yw5" firstAttribute="leading" secondItem="Db3-Mp-qdx" secondAttribute="leading" id="kOq-Ia-oLQ"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="2V2-pg-wD8"/>
                     </view>
                     <connections>
-                        <outlet property="leftImageView" destination="l4I-nq-0ZC" id="muB-N7-SW9"/>
-                        <outlet property="rightImageView" destination="iZr-xB-EUk" id="vTo-Jt-7qQ"/>
+                        <outlet property="testImageView" destination="Db3-Mp-qdx" id="IZ3-eR-7SU"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="NUJ-3y-BMK" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="140.57971014492756" y="138.61607142857142"/>
+            <point key="canvasLocation" x="137.94642857142856" y="159.42028985507247"/>
         </scene>
     </scenes>
-    <resources>
-        <image name="image1" width="339" height="149"/>
-        <image name="image2" width="1200" height="675"/>
-    </resources>
 </document>

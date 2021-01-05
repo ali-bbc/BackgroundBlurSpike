@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		TfujuFyMpghEFaQmqqx7/oVlJkk=
+		tsaDdMXE2CIA8vyXEWRuwKrn8Dk=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
@@ -22,7 +22,15 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
-		GnMdGFfDuvwAuWJN7FS9ELLozY4=
+		xfpAbFHWVSgmmqbSejV6wv8Drg0=
+		</data>
+		<key>Base.lproj/Main.storyboardc/UIViewController-vDA-qN-CMV.nib</key>
+		<data>
+		I5mBp5G+iGDIIErPc4lQLesUq8o=
+		</data>
+		<key>Base.lproj/Main.storyboardc/vDA-qN-CMV-view-9BQ-e9-rwt.nib</key>
+		<data>
+		yutJ0AJ+pJpxCQ0lihaBTvBeTxo=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -39,7 +47,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+8As1RYWBGUkCxvFVvC2S90EAksE7QJTEKRPnlK/tFY=
+			P6yXpfmmGNqQRTXbM50TtOiu8XJCxpdKJFBKrxjPhb8=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
@@ -67,7 +75,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9gq+m2SfIqZdO4RnP+Q5bwx0h1nftPpvwkJZZ8jBiZE=
+			SvA0yhhmkjIxG6VT4yKu/bryfo/Bovc1O3zhTN/tTMY=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/UIViewController-vDA-qN-CMV.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Tly5WkGtJBo+x14J/MaRSh44uzUFotGP8/F/OexsDdk=
+			</data>
+		</dict>
+		<key>Base.lproj/Main.storyboardc/vDA-qN-CMV-view-9BQ-e9-rwt.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8jmDrUBq5ruzoqOdXav82WG74dEXSM5E7hiGeaZh4Rw=
 			</data>
 		</dict>
 	</dict>

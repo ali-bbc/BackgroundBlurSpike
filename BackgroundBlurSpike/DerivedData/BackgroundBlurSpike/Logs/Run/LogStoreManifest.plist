@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>8480C9D4-DB64-4205-9C5C-A351F204E144</key>
+		<key>02B442AC-F1C3-4FC2-A25C-D6E24DA1F1D2</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>8480C9D4-DB64-4205-9C5C-A351F204E144.xcactivitylog</string>
+			<string>02B442AC-F1C3-4FC2-A25C-D6E24DA1F1D2.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,13 +32,965 @@
 			<key>signature</key>
 			<string>Run BackgroundBlurSpike</string>
 			<key>timeStartedRecording</key>
-			<real>631470398.46112096</real>
+			<real>631539508.14715803</real>
 			<key>timeStoppedRecording</key>
-			<real>631470399.71707201</real>
+			<real>631539516.50213206</real>
 			<key>title</key>
 			<string>Run BackgroundBlurSpike</string>
 			<key>uniqueIdentifier</key>
-			<string>8480C9D4-DB64-4205-9C5C-A351F204E144</string>
+			<string>02B442AC-F1C3-4FC2-A25C-D6E24DA1F1D2</string>
+		</dict>
+		<key>071A20FB-3C1D-4966-8F9F-76AF284DBACD</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>071A20FB-3C1D-4966-8F9F-76AF284DBACD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631538974.54611099</real>
+			<key>timeStoppedRecording</key>
+			<real>631539017.08329499</real>
+			<key>title</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>071A20FB-3C1D-4966-8F9F-76AF284DBACD</string>
+		</dict>
+		<key>0D97CA85-420E-415B-A82C-AFC56AC90811</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0D97CA85-420E-415B-A82C-AFC56AC90811.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631538454.38443995</real>
+			<key>timeStoppedRecording</key>
+			<real>631538472.583529</real>
+			<key>title</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>0D97CA85-420E-415B-A82C-AFC56AC90811</string>
+		</dict>
+		<key>15B0B65F-ED48-4C81-B6CF-81A465A8378E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>15B0B65F-ED48-4C81-B6CF-81A465A8378E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631538329.21687102</real>
+			<key>timeStoppedRecording</key>
+			<real>631538451.38890803</real>
+			<key>title</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>15B0B65F-ED48-4C81-B6CF-81A465A8378E</string>
+		</dict>
+		<key>1F2324CF-3B7A-4422-A85F-E40B7B529E85</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1F2324CF-3B7A-4422-A85F-E40B7B529E85.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631538696.28680599</real>
+			<key>timeStoppedRecording</key>
+			<real>631538798.52388203</real>
+			<key>title</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>1F2324CF-3B7A-4422-A85F-E40B7B529E85</string>
+		</dict>
+		<key>26879225-F9A4-468E-BA2D-CA646A248EE5</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>26879225-F9A4-468E-BA2D-CA646A248EE5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631539468.79058301</real>
+			<key>timeStoppedRecording</key>
+			<real>631539479.52163005</real>
+			<key>title</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>26879225-F9A4-468E-BA2D-CA646A248EE5</string>
+		</dict>
+		<key>284C6C8D-3521-430E-A794-EF858284F8B7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>284C6C8D-3521-430E-A794-EF858284F8B7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631539438.81261802</real>
+			<key>timeStoppedRecording</key>
+			<real>631539452.24497402</real>
+			<key>title</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>284C6C8D-3521-430E-A794-EF858284F8B7</string>
+		</dict>
+		<key>31FC923B-8972-4838-B7F9-04645A22CE04</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>31FC923B-8972-4838-B7F9-04645A22CE04.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631529844.01484394</real>
+			<key>timeStoppedRecording</key>
+			<real>631530268.85021603</real>
+			<key>title</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>31FC923B-8972-4838-B7F9-04645A22CE04</string>
+		</dict>
+		<key>3B1B8B7A-4DD1-4634-B34E-3A9CD31888FF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3B1B8B7A-4DD1-4634-B34E-3A9CD31888FF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631539496.94948804</real>
+			<key>timeStoppedRecording</key>
+			<real>631539507.42031896</real>
+			<key>title</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>3B1B8B7A-4DD1-4634-B34E-3A9CD31888FF</string>
+		</dict>
+		<key>3E5A9C88-AF14-4BD0-B24C-ED8F16F6AFFF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3E5A9C88-AF14-4BD0-B24C-ED8F16F6AFFF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631539480.20674503</real>
+			<key>timeStoppedRecording</key>
+			<real>631539496.30797601</real>
+			<key>title</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>3E5A9C88-AF14-4BD0-B24C-ED8F16F6AFFF</string>
+		</dict>
+		<key>3F463C01-BE40-401C-B883-3C9607F11415</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3F463C01-BE40-401C-B883-3C9607F11415.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631539381.09296501</real>
+			<key>timeStoppedRecording</key>
+			<real>631539405.26970601</real>
+			<key>title</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>3F463C01-BE40-401C-B883-3C9607F11415</string>
+		</dict>
+		<key>4AB96791-2E02-40E0-AB80-0C326015851D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>4AB96791-2E02-40E0-AB80-0C326015851D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631539018.21017098</real>
+			<key>timeStoppedRecording</key>
+			<real>631539066.47610795</real>
+			<key>title</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>4AB96791-2E02-40E0-AB80-0C326015851D</string>
+		</dict>
+		<key>53396282-9EC2-46EE-B85E-D9CECC6439BA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>53396282-9EC2-46EE-B85E-D9CECC6439BA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631538307.88303006</real>
+			<key>timeStoppedRecording</key>
+			<real>631538328.22068405</real>
+			<key>title</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>53396282-9EC2-46EE-B85E-D9CECC6439BA</string>
+		</dict>
+		<key>6F3091CD-B149-4EAC-AF92-1F3B16EAE388</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6F3091CD-B149-4EAC-AF92-1F3B16EAE388.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631539526.823717</real>
+			<key>timeStoppedRecording</key>
+			<real>631539542.59210706</real>
+			<key>title</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>6F3091CD-B149-4EAC-AF92-1F3B16EAE388</string>
+		</dict>
+		<key>7043ADDD-D0EC-432D-B1C0-5E374DF9AF93</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7043ADDD-D0EC-432D-B1C0-5E374DF9AF93.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631539325.42115605</real>
+			<key>timeStoppedRecording</key>
+			<real>631539342.24647999</real>
+			<key>title</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>7043ADDD-D0EC-432D-B1C0-5E374DF9AF93</string>
+		</dict>
+		<key>714E86A7-F51F-47D4-A983-69E6BC701935</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>714E86A7-F51F-47D4-A983-69E6BC701935.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631537606.64644504</real>
+			<key>timeStoppedRecording</key>
+			<real>631537644.82269001</real>
+			<key>title</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>714E86A7-F51F-47D4-A983-69E6BC701935</string>
+		</dict>
+		<key>77C5A99C-C7A4-4486-89DA-013CF1F7659E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>77C5A99C-C7A4-4486-89DA-013CF1F7659E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631539342.98255706</real>
+			<key>timeStoppedRecording</key>
+			<real>631539380.41201198</real>
+			<key>title</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>77C5A99C-C7A4-4486-89DA-013CF1F7659E</string>
+		</dict>
+		<key>79DF07B6-842A-4E92-A7EE-2BDA05848E66</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>79DF07B6-842A-4E92-A7EE-2BDA05848E66.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631538804.94119203</real>
+			<key>timeStoppedRecording</key>
+			<real>631538973.41726303</real>
+			<key>title</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>79DF07B6-842A-4E92-A7EE-2BDA05848E66</string>
+		</dict>
+		<key>8A3AD332-B5FA-4E82-8990-DC8C97B695C0</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8A3AD332-B5FA-4E82-8990-DC8C97B695C0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631539557.03367901</real>
+			<key>timeStoppedRecording</key>
+			<real>631539591.77498996</real>
+			<key>title</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>8A3AD332-B5FA-4E82-8990-DC8C97B695C0</string>
+		</dict>
+		<key>9A392453-CD4A-401B-8419-38B8D07C41C3</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9A392453-CD4A-401B-8419-38B8D07C41C3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631539543.30812299</real>
+			<key>timeStoppedRecording</key>
+			<real>631539556.21384299</real>
+			<key>title</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>9A392453-CD4A-401B-8419-38B8D07C41C3</string>
+		</dict>
+		<key>A560C2E2-F380-4760-90F7-131C10A12AAE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A560C2E2-F380-4760-90F7-131C10A12AAE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631539240.94317603</real>
+			<key>timeStoppedRecording</key>
+			<real>631539323.100757</real>
+			<key>title</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>A560C2E2-F380-4760-90F7-131C10A12AAE</string>
+		</dict>
+		<key>AD32B1D6-28DF-4308-95F7-1AFFAC60B19F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AD32B1D6-28DF-4308-95F7-1AFFAC60B19F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631537656.598068</real>
+			<key>timeStoppedRecording</key>
+			<real>631538295.86185205</real>
+			<key>title</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>AD32B1D6-28DF-4308-95F7-1AFFAC60B19F</string>
+		</dict>
+		<key>BE538B16-005A-4917-83D8-8289584A5B43</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>BE538B16-005A-4917-83D8-8289584A5B43.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631539452.97845101</real>
+			<key>timeStoppedRecording</key>
+			<real>631539468.135638</real>
+			<key>title</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>BE538B16-005A-4917-83D8-8289584A5B43</string>
+		</dict>
+		<key>C2A1B719-C72C-4DEA-89CD-E1A199EE6577</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C2A1B719-C72C-4DEA-89CD-E1A199EE6577.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631539067.55032504</real>
+			<key>timeStoppedRecording</key>
+			<real>631539113.11300099</real>
+			<key>title</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>C2A1B719-C72C-4DEA-89CD-E1A199EE6577</string>
+		</dict>
+		<key>D647A007-23FB-45DF-ACC9-CC73BE3C11FE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D647A007-23FB-45DF-ACC9-CC73BE3C11FE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631538473.78192794</real>
+			<key>timeStoppedRecording</key>
+			<real>631538688.58809996</real>
+			<key>title</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>D647A007-23FB-45DF-ACC9-CC73BE3C11FE</string>
+		</dict>
+		<key>DC724BD8-3119-4D27-9C31-322FD71EBD4C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DC724BD8-3119-4D27-9C31-322FD71EBD4C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631539516.89096403</real>
+			<key>timeStoppedRecording</key>
+			<real>631539526.41747403</real>
+			<key>title</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>DC724BD8-3119-4D27-9C31-322FD71EBD4C</string>
+		</dict>
+		<key>E95AD71F-AF97-4CBE-B9CE-17519F579BAD</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E95AD71F-AF97-4CBE-B9CE-17519F579BAD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631539405.90391004</real>
+			<key>timeStoppedRecording</key>
+			<real>631539419.21229005</real>
+			<key>title</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>E95AD71F-AF97-4CBE-B9CE-17519F579BAD</string>
+		</dict>
+		<key>EAF606FC-BB0E-46EE-BCAE-0A03D565F3CA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>EAF606FC-BB0E-46EE-BCAE-0A03D565F3CA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631539419.96321297</real>
+			<key>timeStoppedRecording</key>
+			<real>631539438.12808394</real>
+			<key>title</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>EAF606FC-BB0E-46EE-BCAE-0A03D565F3CA</string>
+		</dict>
+		<key>FC1F67E5-B954-4BD7-8D37-F11F4DC321F9</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FC1F67E5-B954-4BD7-8D37-F11F4DC321F9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackgroundBlurSpike project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackgroundBlurSpike</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>timeStartedRecording</key>
+			<real>631539114.89640701</real>
+			<key>timeStoppedRecording</key>
+			<real>631539238.88984895</real>
+			<key>title</key>
+			<string>Run BackgroundBlurSpike</string>
+			<key>uniqueIdentifier</key>
+			<string>FC1F67E5-B954-4BD7-8D37-F11F4DC321F9</string>
 		</dict>
 	</dict>
 </dict>
