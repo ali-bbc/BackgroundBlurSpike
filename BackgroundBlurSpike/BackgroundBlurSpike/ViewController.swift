@@ -15,15 +15,17 @@ class ViewController: UIViewController {
 //    @IBOutlet weak var leftImageView: UIImageView!
 //    @IBOutlet weak var rightImageView: UIImageView!
 
-    @IBOutlet weak var testImageView: UIImageView!
-    @IBOutlet weak var overlayView: UIVisualEffectView!
-
     override func viewDidLoad() {
         super.viewDidLoad()
 
 //        let leftImage = UIImage(named: "image1")
 //        let rightImage = UIImage(named: "image2")
-//
+        let array: [UIImage] = [UIImage(named: "image1")!, UIImage(named: "image2")!]
+
+        let newImageView = UIImageView(image: array.stitch())
+        view.addSubview(newImageView)
+        newImageView.center = view.center
+
 //        let size = CGSize(width: leftImageView.frame.width + rightImageView.frame.width, height: leftImageView.frame.height)
 //        UIGraphicsBeginImageContext(size)
 //
@@ -40,11 +42,8 @@ class ViewController: UIViewController {
 //        view.addSubview(newImageView)
 //        newImageView.center = view.center
 
-        let testImage = UIImage(named: "testImage")?.applyGussianBlur()
-        testImageView.image = testImage
-//
-        
-
+//        let testImage = UIImage(named: "testImage")?.applyGussianBlur()
+//        testImageView.image = testImage
 //        overlayView.backgroundColor = UIColor.black.withAlphaComponent(0.25)
     }
 }
@@ -67,3 +66,35 @@ extension UIImage {
 
 }
 
+extension Array where Element: UIImage {
+
+    func stitch() -> UIImage {
+
+        var x = 0, totalWidth = 0
+
+        let areaSizes:[CGRect] = self.enumerated().map { index, source -> CGRect in
+
+            let width: Int
+            if index == 0 || index == self.count - 1 {
+                width = Int(source.size.width + 8 + 20) // leading and trailing inset
+            } else {
+                width = Int(source.size.width + 8)
+            }
+            let areaSize = CGRect(x: x, y: 0, width: 50, height: 100) // Int(width)
+
+            x = x + 50
+            totalWidth = totalWidth + width
+
+            return areaSize
+        }
+        let size = CGSize(width: 100, height: 100)
+        UIGraphicsBeginImageContext(size)
+
+        areaSizes.enumerated().forEach { index, rect in
+            self[index].draw(in: rect, blendMode: .normal, alpha: 1)
+        }
+        let newImage = UIGraphicsGetImageFromCurrentImageContext()!
+        UIGraphicsEndImageContext()
+        return newImage
+    }
+}
